@@ -1,2 +1,3 @@
 # langchain-workshop
 Langchain workshop and chatbot examples
+vJsRLDdfQ5dr4KEx9Ad9T3BlbkFJqMPcxOQL6u82Q3UcoDOI
